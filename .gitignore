@@ -1,6 +1,4 @@
 .env
-ormconfig.json
-ormconfig.ts
 
 # compiled output
 /dist
